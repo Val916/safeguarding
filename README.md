@@ -90,5 +90,3 @@ Resource Links:
 Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
 
 Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (could-have).
-
-
