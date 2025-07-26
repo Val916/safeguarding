@@ -8,8 +8,7 @@ The mission of our website:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
-
-# User Stories
+### User Stories
 
          User Story 1: School Teacher Supporting Displaced Children
 As a primary school teacher in the UK,  
@@ -61,16 +60,27 @@ Translate key portions into Ukrainian, especially safety tips.
 Add info on navigating schools, healthcare, and community support in the UK.
 
 
+##Tasks to do, marked as must-have:
+
+Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form) (must-have).
+
+Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content(must-have).
+
+Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users(should-have).
+
+Resource Links: photos and text generates by AI and my sleepless and restless mind(must-have).
+
+Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (could-have).
 
 ## Core Website Sections
 
-- __Navigation Bar__
+__Navigation Bar__
 
 Links to move fast around the sections on the page:
 - ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size-mock-up.jpg)
 - ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/wide-size-mock-up.jpg)
 
-- __Hero image with overlay text on it__
+__Hero image with overlay text on it__
 
 ![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
 
@@ -78,19 +88,19 @@ Links to move fast around the sections on the page:
 Bullet Points for Action Steps, divided by sections: 
 Present the safeguarding steps as a list using Bootstrap’s list group or standard bullet points, ensuring clarity.
 
-- __Section 1.Introduction__
+__Section 1. Introduction__
 - General info about the problem. 
 - Label:For Ukrainian Families.
 The same info translated in Ukrainian, link to the second page.
 
 ![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero-for-ukr.jpg)
 
-- __Section 2. Key concerns__
+__Section 2. Key concerns__
 
 Concerns and their causes.
 ![Concerns](https://github.com/Val916/safeguarding/blob/main/assets/images/concerns-child.jpg)
 
-- __Section 3. Professional Mental Health Support__
+__Section 3. Professional Mental Health Support__
 
 How the organisation is helping already:
 - Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
@@ -100,37 +110,23 @@ How the organisation is helping already:
 ![Support](https://github.com/Val916/safeguarding/blob/main/assets/images/mental-support.jpeg)
 
 
-- __Section 4. How can you help__
+__Section 4. How can you help__
  Simple steps to do if you would like to help.
 
 ![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/how-can-you-help.jpeg)
 
 
-- __Section 5. Resorce Hub__
+__Section 5. Resorce Hub__
 - FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 
 
-- __Section 6. We are here__
+__Section 6. We are here__
 Feedback form.
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
-- __Footer. Contacts.__
+__Footer. Contacts.__
 Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
 
-
-
-
-#Tasks to do, marked as must-have:
-
-Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form) (must-have).
-
-Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.
-
-Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users(should-have).
-
-Resource Links: photos and text generates by AI and my sleepless and restless mind.
-
-Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (could-have).
 
 
 ## Testing 
