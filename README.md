@@ -3,12 +3,13 @@
 Protecting the vulnerable, protecting the displaced.
 The war in Ukraine: key safeguarding concerns.
 
+One-page web-site devoted to help people in need.
 The mission of our website:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
 
-User Stories
+# User Stories
 
          User Story 1: School Teacher Supporting Displaced Children
 As a primary school teacher in the UK,  
@@ -61,27 +62,59 @@ Links to trusted services and multilingual helplines.
 
 
 
-Core Website Sections
+## Core Website Sections
+
+- __Navigation Bar__
+
+Links to move fast around the sections on the page:
+- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/photo-output.jpg)
+- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/photo-output%20(1).jpg)
+
+- __Hero image with overlay text on it__
+
+![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
 
 
-Trauma and Mental Health Support
-For Ukrainian Families
+Bullet Points for Action Steps, divided by sections: 
+Present the safeguarding steps as a list using Bootstrap’s list group or standard bullet points, ensuring clarity.
 
-FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
+- __Section 1.Introduction__
+- General info about the problem. 
+- Label:For Ukrainian Families.
+The same info translated in Ukrainian, link to the second page.
+
+![Page in Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+
+- __Section 2. Key concerns__
+
+Concerns and their causes.
+
+- __Section 3. Professional Mental Health Support__
+
+How the organisation is helping already:
+- Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
+- Mental health volonteer support from the therapists.
+- Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
+
+![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+
+
+- __Section 4. How can you help__
+ Simple steps to do if you would like to help.
+
+![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+
+- __Footer. Contacts. Resorce Hub. Report__
+
+- Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
+- FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 translated
+- Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
 
-Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
+#Tasks to do, marked as must-have:
 
-Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
-
-Potential Features to Include:
-Hero Section: A Jumbotron or simple header with a brief statement about the importance of safeguarding, using a bold heading and a relevant image or colour background.
-Key Information Sections: Use Bootstrap’s grid system to divide the page into sections like “What is Safeguarding?”, “Signs to Watch For,” and “Action Steps.”
-
-Bullet Points for Action Steps: Present the safeguarding steps as a list using Bootstrap’s list group or standard bullet points, ensuring clarity.
-
-Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
+Key Information Sections: Use Bootstrap’s grid system to divide the page into sections like “What is Safeguarding?”
 
 Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.
 
@@ -90,3 +123,36 @@ Resource Links:
 Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
 
 Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (could-have).
+
+
+## Testing 
+### Validator Testing 
+- HTML 
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+### Unfixed Bugs
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+
+## Credits 
+
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+
+You can break the credits section up into Content and Media, depending on what you have included in your project. 
+
+### Content 
+
+- The text for the Home page was taken from Wikipedia Article A
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site
