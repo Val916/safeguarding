@@ -13,11 +13,9 @@ body {
 
  h1, h2 {
     font-family: 'Space Grotesk', sans-serif;
-   
 }
 
- 
- 
+
     main {
       flex: 1;
     }
