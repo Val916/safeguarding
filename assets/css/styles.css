@@ -14,16 +14,18 @@ body {
  h1, h2 {
     font-family: 'Space Grotesk', sans-serif;
    
-;
 }
 
+ 
  
     main {
       flex: 1;
     }
     footer {
-      background-color: #f1a531c2;
+      background-color: #e7ad55c2;
+      font-size: smaller;
       padding: 20px;
       text-align: center;
-      margin-bottom: 0;
     }
+
+  

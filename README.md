@@ -3,8 +3,8 @@
 Protecting the vulnerable, protecting the displaced.
 The war in Ukraine: key safeguarding concerns.
 
-One-page web-site devoted to help people in need.
-The mission of the website:
+The web-site devoted to help people in need.
+Our mission is:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
