@@ -4,7 +4,7 @@ Protecting the vulnerable, protecting the displaced.
 The war in Ukraine: key safeguarding concerns.
 
 One-page web-site devoted to help people in need.
-The mission of our website:
+The mission of the website:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
@@ -60,17 +60,19 @@ Translate key portions into Ukrainian, especially safety tips.
 Add info on navigating schools, healthcare, and community support in the UK.
 
 
-##Tasks to do, marked as must-have:
+##Strategy.
+#Tasks to do, marked as must-have:
 
-Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form) (must-have).
+- Skeleton of the responsive website.
+- Typography, Colour Scheme, Imagery.
+- Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form).
+- Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.
+- Tablet/Mobile View
+- Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
+- Resource Links.
+- Technologies Used: Languages, Frameworks, Libraries, Programs.
 
-Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content(must-have).
-
-Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users(should-have).
-
-Resource Links: photos and text generates by AI and my sleepless and restless mind(must-have).
-
-Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (could-have).
+- Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as could-have for now, as Future Feature).
 
 ## Core Website Sections
 
