@@ -16,49 +16,49 @@ As a primary school teacher in the UK,
 I want to learn how to create a safe and welcoming classroom for Ukrainian refugee students,  
 So that I can help them feel secure, emotionally supported, and integrated into the school community.
 
-         Acceptance Criteria
+- Acceptance Criteria
 Teacher can access practical safeguarding tips on one responsive webpage.
 
 Content includes examples of emotional support strategies and classroom adaptations.
 Page links to additional training and mental health resources.
 Available on mobile and desktop without layout errors.
 
-              Tasks
-[ ] Add a section titled "Support in Schools" with teacher-specific guidance
-[ ] Create visual icons for emotional care, inclusive teaching, and trauma awareness.
-[ ] Include links to trusted external resources for mental health and safeguarding training.
-[ ] Use Bootstrap’s grid system to maintain layout across screen sizes.
+- Tasks
+Add a section titled "Support in Schools" with teacher-specific guidance
+Create visual icons for emotional care, inclusive teaching, and trauma awareness.
+Include links to trusted external resources for mental health and safeguarding training.
+Use Bootstrap’s grid system to maintain layout across screen sizes.
 
             User Story 2: Mental Health Professional
 As a child therapist working with conflict-affected youth,  
 I want to find referral pathways and learn how trauma from war impacts children,  
 So that I can offer appropriate counseling and connect clients with long-term care.
 
-           Acceptance Criteria
+- Acceptance Criteria
 Section includes trauma-informed guidance and case examples.
 Clearly lists referral contacts or paths within UK safeguarding systems.
 Content uses clear, professional language accessible to therapists.
 Secure and respectful design aligned with emotional sensitivity.
 
-              Tasks
-[ ] Add section “Trauma and Mental Health Support”.
-[ ] Include a visual guide.
-[ ] Offer downloadable PDFs or printable checklists (optional future enhancement).
-[ ] Audit content tone for empathy, clarity, and cultural relevance.
+- Tasks
+Add section “Trauma and Mental Health Support”.
+Include a visual guide.
+Offer downloadable PDFs or printable checklists (optional future enhancement).
+Audit content tone for empathy, clarity, and cultural relevance.
 
               User Story 3:Ukrainian Mother Seeking Safety for Her Child
 As a Ukrainian mother who recently arrived in the UK with my child, I want to know how to keep my child safe, find trustworthy help, and feel supported as we rebuild our life, So that I can make confident decisions and help my child feel secure in this new environment.
 
-              Acceptance Criteria
+- Acceptance Criteria
 Page uses calm, reassuring language with culturally sensitive messaging.
 Key safeguarding risks explained clearly (e.g. school environments, online safety, housing concerns).
 Visual cues and translated phrases for familiarity and ease.
 Links to trusted services and multilingual helplines.
-             Tasks
-[ ] Create a “For Ukrainian Families” page.
-[ ] Use icons or visuals that represent family, security, and emotional support.
-[ ] Translate key portions into Ukrainian, especially safety tips.
-[ ] Add info on navigating schools, healthcare, and community support in the UK.
+- Tasks
+Create a “For Ukrainian Families” page.
+Use icons or visuals that represent family, security, and emotional support.
+Translate key portions into Ukrainian, especially safety tips.
+Add info on navigating schools, healthcare, and community support in the UK.
 
 
 
@@ -67,8 +67,8 @@ Links to trusted services and multilingual helplines.
 - __Navigation Bar__
 
 Links to move fast around the sections on the page:
-- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/photo-output.jpg)
-- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/photo-output%20(1).jpg)
+- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size-mock-up.jpg)
+- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/wide-size-mock-up.jpg)
 
 - __Hero image with overlay text on it__
 
@@ -83,11 +83,12 @@ Present the safeguarding steps as a list using Bootstrap’s list group or stand
 - Label:For Ukrainian Families.
 The same info translated in Ukrainian, link to the second page.
 
-![Page in Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero-for-ukr.jpg)
 
 - __Section 2. Key concerns__
 
 Concerns and their causes.
+![Concerns](https://github.com/Val916/safeguarding/blob/main/assets/images/concerns-child.jpg)
 
 - __Section 3. Professional Mental Health Support__
 
@@ -96,31 +97,38 @@ How the organisation is helping already:
 - Mental health volonteer support from the therapists.
 - Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
 
-![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+![Support](https://github.com/Val916/safeguarding/blob/main/assets/images/mental-support.jpeg)
 
 
 - __Section 4. How can you help__
  Simple steps to do if you would like to help.
 
-![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/how-can-you-help.jpeg)
 
-- __Footer. Contacts. Resorce Hub. Report__
 
-- Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
+- __Section 5. Resorce Hub__
 - FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
-translated
-- Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
+
+
+- __Section 6. We are here__
+Feedback form.
+Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
+
+- __Footer. Contacts.__
+Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
+
+
 
 
 #Tasks to do, marked as must-have:
 
-Key Information Sections: Use Bootstrap’s grid system to divide the page into sections like “What is Safeguarding?”
+Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form) (must-have).
 
 Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.
 
-Resource Links:
+Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users(should-have).
 
-Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
+Resource Links: photos and text generates by AI and my sleepless and restless mind.
 
 Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (could-have).
 
