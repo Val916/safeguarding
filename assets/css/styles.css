@@ -4,7 +4,10 @@
 nav.navbar {
     background-color: #B3DDED !important;
     padding: 10px;
-   
+}
+
+title {
+    text-align: center;
 }
 
 /* Center navbar items */
@@ -23,7 +26,8 @@ body {
 }
 
  h1, h2 {
-    font-family: 'Space Grotesk', sans-serif;
+    margin: 10px;
+    text-align: center;
 }
 
 a {
