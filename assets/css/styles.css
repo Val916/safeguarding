@@ -29,7 +29,12 @@ a {
  a:hover{
     color: #c73131;}
 
-
+.card-7 {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+}
 
     main {
       flex: 1;
