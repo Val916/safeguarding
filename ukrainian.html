@@ -18,9 +18,7 @@
 </head>
 
 <body>
-    <header>
-
-        <!-- Navigation Bar -->
+            <!-- Navigation Bar -->
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.html">На головну</a>
@@ -36,10 +34,10 @@
           <a class="nav-link" href="#support">Підтримка</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.html#help">Допомога</a>
+          <a class="nav-link" href="#help">Допомога</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.html#ask">Запитати</a>
+          <a class="nav-link" href="#ask">Запитати</a>
           </li>
           <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="ukrainian.html">Ukrainian</a>
@@ -48,23 +46,32 @@
     </div>
   </div>
 </nav>
-        <!-- Hero image -->
-    <div class="hero-image">
-        <img src="assets/images/hero2.jpg" alt="Hero Image" class="img-fluid w-100" style="height: 350px; object-fit: cover;">
-    </div>
-    <h1>Підтримка українців у Великій Британії</h1>
+
+<header id="hero" class="container text-center">
+      <!-- Hero image -->
+    <section class="row">
+       <!-- text-center class used to centre all text inside column -->
+        <div class="col-12 text-center">        
+            <img src="assets/images/hero2.jpg" alt="Hero Image" class="img-fluid w-100" style="height: 350px; object-fit: cover;">
+        </div>
+    </section>
+
+    <div class="container">
+        <h1>Підтримка українців у Великій Британії</h1>
         <p>Цей сайт допомагає українським переселенцям адаптуватися в новому середовищі.</p>
 
         <!--Button Link to English version-->
         <div lang="en" class="d-grid gap-2">
             <a class="btn btn-warning" href="index.html" target="_blank" role="button">EN   You can find the English version of the site here   EN</a>
         </div>
-    <h1>Ласкаво просимо!</h1>
-    <p>Цей сайт допомагає українським переселенцям адаптуватися в новому середовищі.</p>
+        
+        <h1>Ласкаво просимо!</h1>
+        <p>Цей сайт допомагає українським переселенцям адаптуватися в новому середовищі.</p>
 
-    <div lang="en">
-      <h2>Welcome!</h2>
-      <p>This website supports Ukrainian newcomers in adapting to their new environment.</p>
+        <div lang="en">
+          <h2>Welcome!</h2>
+          <p>This website supports Ukrainian newcomers in adapting to their new environment.</p>
+        </div>
     </div>
     </header>
     <main>
@@ -96,7 +103,7 @@
                     </div>
                 </div>
 
-                <!-- Additional content sections for navigation -->
+                <!-- Additional content sections for future features -->
                 <div class="col-12 mt-5" id="help">
                     <h3>📞 Допомога та підтримка</h3>
                     <p>Ресурси для отримання професійної допомоги та підтримки.</p>
@@ -113,7 +120,6 @@
   </div>
 </section>
 </main>
-
 <footer>
 <div id="contacts">
     <h6>Контакти</h6><address>Email: <a href="mailto:info@safeguardingconflict.org" aria-label="Email">info@safeguardingconflict.org</a>
@@ -124,12 +130,13 @@
     </address>
 <p>&copy; 2014 Safeguarding in a Time of Conflict. All rights reserved.</p>
 </div>
-    <!-- Bootstrap JS -->
+
+</footer>
+<!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
     
     <!-- Font Awesome kit -->
     <script src="https://kit.fontawesome.com/27f757781e.js" crossorigin="anonymous"></script>
-    
-</footer>
+
 </body>
 </html>
