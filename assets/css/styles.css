@@ -29,7 +29,9 @@ a {
  a:hover{
     color: #ee4e04;}
 
-  
+  section .text-dark {
+      background-color: #B3DDED;
+  }
 
 .card-7 {
     display: flex;
