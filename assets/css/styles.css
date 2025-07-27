@@ -3,7 +3,7 @@
 
 
 nav.navbar {
-    background-color: #fcf7e4 !important;
+    background-color: #B3DDED !important;
     padding: 10px;
    
 }
@@ -27,7 +27,7 @@ a {
     text-decoration: none;
 }
  a:hover{
-    color: #c73131;}
+    color: #5f0d0d;}
 
   
 
@@ -38,16 +38,17 @@ a {
     margin-top: 20px;
 }
 
-    main {
-      flex: 1;
-    }
-    footer {
+main {
+
+      flex: 1;}
+
+footer {
       background-color: #e7ad55c2;
       font-size: smaller;
       padding: 20px;
       margin-top: 20px;
       text-align: center;
-    }
+}
 
 
   
