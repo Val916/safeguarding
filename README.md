@@ -1,5 +1,6 @@
 
 ![Banner](https://github.com/Val916/safeguarding/blob/main/assets/images/banner-for-readme.png "My Banner")
+![Static Badge](https://img.shields.io/badge/be%20careful%2C%20it's%20about%20the%20war)
 Seriously.
 
 Protecting the vulnerable, protecting the displaced.
@@ -9,6 +10,9 @@ The web-site devoted to help people in need.
 Our mission is:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
+
+[TOC]
+
 
 ### User Stories (diligently created by Copilot)
 
