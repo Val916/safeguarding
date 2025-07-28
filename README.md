@@ -25,10 +25,10 @@ Page links to additional training and mental health resources.
 Available on mobile and desktop without layout errors.
 
 - Tasks
-<ul><li>Add a section titled "Support in Schools" with teacher-specific guidance</li>
+<ol><li>Add a section titled "Support in Schools" with teacher-specific guidance</li>
 <li>Create visual icons for emotional care, inclusive teaching, and trauma awareness.</li>
 <li>Include links to trusted external resources for mental health and safeguarding training.</li>
-<li>Use Bootstrap’s grid system to maintain layout across screen sizes.</li>
+<li>Use Bootstrap’s grid system to maintain layout across screen sizes.</li></ol>
 
             User Story 2: Mental Health Professional
 As a child therapist working with conflict-affected youth,  
@@ -42,10 +42,10 @@ Content uses clear, professional language accessible to therapists.
 Secure and respectful design aligned with emotional sensitivity.
 
 - Tasks
-<li>Add section “Trauma and Mental Health Support”.</li>
+<ol><li>Add section “Trauma and Mental Health Support”.</li>
 <li>Include a visual guide.</li>
 <li>Offer downloadable PDFs or printable checklists (optional future enhancement).</li>
-<li>Audit content tone for empathy, clarity, and cultural relevance.</li>
+<li>Audit content tone for empathy, clarity, and cultural relevance.</li></ol>
 
               User Story 3:Ukrainian Mother Seeking Safety for Her Child
 As a Ukrainian mother who recently arrived in the UK with my child, I want to know how to keep my child safe, find trustworthy help, and feel supported as we rebuild our life, So that I can make confident decisions and help my child feel secure in this new environment.
@@ -56,15 +56,17 @@ Key safeguarding risks explained clearly (e.g. school environments, online safet
 Visual cues and translated phrases for familiarity and ease.
 Links to trusted services and multilingual helplines.
 - Tasks
+<ol>
 <li>Create a “For Ukrainian Families” page.</li>
 <li>Use icons or visuals that represent family, security, and emotional support.</li>
 <li>Translate key portions into Ukrainian, especially safety tips.</li>
-<li>Add info on navigating schools, healthcare, and community support in the UK.</li>
+<li>Add info on navigating schools, healthcare, and community support in the UK.</li></ol>
 
 
-##Strategy.
-#Tasks to do, marked as must-have:
+## Strategy.
+# Tasks to do, marked as must-have:
 
+<ol>
 <li>Skeleton of the responsive website.</li>
 <li>Typography, Colour Scheme (Ukrainian flag themed - yellow-blue).</li>
 <li>Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.</li>
@@ -75,7 +77,7 @@ Links to trusted services and multilingual helplines.
 <li>Resource Links (both English and Ukrainian language friendly).</li>
 <li>Technologies Used: Languages (HTML, CSS), Frameworks, Libraries, Programs.</li>
 <li>Mark known bugs.</li>
-
+</ol>
 # Could-haves:
 - Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as for now, as Future Feature).
 
