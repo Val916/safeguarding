@@ -82,6 +82,13 @@ Add info on navigating schools, healthcare, and community support in the UK.
 __Navigation Bar__
 
 Links to move fast around the sections on the page:
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg "Logo Title Text 2"
+
+
 - ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size-mock-up.jpg)
 - ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/wide-size-mock-up.jpg)
 
