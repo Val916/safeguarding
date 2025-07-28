@@ -5,13 +5,13 @@
 
 Seriously.
 
-# Protecting the vulnerable, protecting the displaced.
-# The war in Ukraine: key safeguarding concerns.
+# Protecting the vulnerable, supporting the displaced.
+The war in Ukraine: key safeguarding concerns.
 
 The web-site devoted to help people in need.
 Our mission is:
 
-# "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
+"To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
 # Table of Contents
 
@@ -93,6 +93,7 @@ Links to trusted services and multilingual helplines.
 # Tasks to do, marked as must-have:
 
 <ol>
+<li>User-stories in Github Project</li>
 <li>Skeleton of the responsive website.</li>
 <li>Typography, Colour Scheme (Ukrainian flag themed - yellow-blue).</li>
 <li>Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.</li>
@@ -139,7 +140,7 @@ __Section 1. Introduction__
 - Label:For Ukrainian Families.
 The same info translated in Ukrainian, link to the second page.
 
-![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpg)
+![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpg) with __Section 7. Ukrainian language page__
 
 __Section 2. Key concerns__
 
@@ -162,13 +163,16 @@ __Section 4. How can you help__
 ![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/how-can-you-help.jpeg)
 
 
-__Section 5.  __
+__Section 5. Resourse Hub__
 - FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 
 
-__Section 6. We are here__
+__Section 6. Ask__
 Feedback form.
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
+
+__Section 7. Ukrainian language page__
+
 
 __Footer. Contacts.__
 Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
@@ -176,11 +180,14 @@ Contact Section: Include a simple contact form or a list of important contacts, 
 
 
 ## Testing 
+
 ### Validator Testing 
 - HTML 
 - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
+
 ### Unfixed Bugs
+
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
