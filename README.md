@@ -1,9 +1,6 @@
 
 ![Banner](https://github.com/Val916/safeguarding/blob/main/assets/images/banner-for-readme.png "My Banner")
-
-
-https://img.shields.io/badge/be%20careful%2C%20it's%20about%20the%20war
-
+Seriously.
 
 Protecting the vulnerable, protecting the displaced.
 The war in Ukraine: key safeguarding concerns.
@@ -28,10 +25,10 @@ Page links to additional training and mental health resources.
 Available on mobile and desktop without layout errors.
 
 - Tasks
-Add a section titled "Support in Schools" with teacher-specific guidance
-Create visual icons for emotional care, inclusive teaching, and trauma awareness.
-Include links to trusted external resources for mental health and safeguarding training.
-Use Bootstrap’s grid system to maintain layout across screen sizes.
+<ul><li>Add a section titled "Support in Schools" with teacher-specific guidance</li>
+<li>Create visual icons for emotional care, inclusive teaching, and trauma awareness.</li>
+<li>Include links to trusted external resources for mental health and safeguarding training.</li>
+<li>Use Bootstrap’s grid system to maintain layout across screen sizes.</li>
 
             User Story 2: Mental Health Professional
 As a child therapist working with conflict-affected youth,  
@@ -45,10 +42,10 @@ Content uses clear, professional language accessible to therapists.
 Secure and respectful design aligned with emotional sensitivity.
 
 - Tasks
-Add section “Trauma and Mental Health Support”.
-Include a visual guide.
-Offer downloadable PDFs or printable checklists (optional future enhancement).
-Audit content tone for empathy, clarity, and cultural relevance.
+<li>Add section “Trauma and Mental Health Support”.</li>
+<li>Include a visual guide.</li>
+<li>Offer downloadable PDFs or printable checklists (optional future enhancement).</li>
+<li>Audit content tone for empathy, clarity, and cultural relevance.</li>
 
               User Story 3:Ukrainian Mother Seeking Safety for Her Child
 As a Ukrainian mother who recently arrived in the UK with my child, I want to know how to keep my child safe, find trustworthy help, and feel supported as we rebuild our life, So that I can make confident decisions and help my child feel secure in this new environment.
@@ -59,25 +56,25 @@ Key safeguarding risks explained clearly (e.g. school environments, online safet
 Visual cues and translated phrases for familiarity and ease.
 Links to trusted services and multilingual helplines.
 - Tasks
-Create a “For Ukrainian Families” page.
-Use icons or visuals that represent family, security, and emotional support.
-Translate key portions into Ukrainian, especially safety tips.
-Add info on navigating schools, healthcare, and community support in the UK.
+<li>Create a “For Ukrainian Families” page.</li>
+<li>Use icons or visuals that represent family, security, and emotional support.</li>
+<li>Translate key portions into Ukrainian, especially safety tips.</li>
+<li>Add info on navigating schools, healthcare, and community support in the UK.</li>
 
 
 ##Strategy.
 #Tasks to do, marked as must-have:
 
-- Skeleton of the responsive website.
-- Typography, Colour Scheme (Ukrainian flag themed - yellow-blue).
-- Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
-- Images for cards and Hero section with AI.
-- Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form).
-- Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.
-- Tablet/Mobile View
-- Resource Links (both English and Ukrainian language friendly).
-- Technologies Used: Languages (HTML, CSS), Frameworks, Libraries, Programs.
-- Mark known bugs.
+<li>Skeleton of the responsive website.</li>
+<li>Typography, Colour Scheme (Ukrainian flag themed - yellow-blue).</li>
+<li>Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.</li>
+<li>Images for cards and Hero section with AI.</li>
+<li>Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form).</li>
+<li>Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.</li>
+<li>Tablet/Mobile View</li>
+<li>Resource Links (both English and Ukrainian language friendly).</li>
+<li>Technologies Used: Languages (HTML, CSS), Frameworks, Libraries, Programs.</li>
+<li>Mark known bugs.</li>
 
 # Could-haves:
 - Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as for now, as Future Feature).
