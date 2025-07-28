@@ -8,7 +8,7 @@ Our mission is:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
-### User Stories
+### User Stories (diligently created by Copilot)
 
          User Story 1: School Teacher Supporting Displaced Children
 As a primary school teacher in the UK,  
@@ -64,15 +64,18 @@ Add info on navigating schools, healthcare, and community support in the UK.
 #Tasks to do, marked as must-have:
 
 - Skeleton of the responsive website.
-- Typography, Colour Scheme, Imagery.
+- Typography, Colour Scheme (Ukrainian flag themed - yellow-blue).
+- Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
+- Images for cards and Hero section with AI.
 - Key Information Sections: Use Bootstrap’s grid system to divide the page into sections (Introduction, Key concerns, Professional Mental Health Support, How can you help,Resorce Hub, Feedback form).
 - Information Cards: Use Bootstrap’s card components to present mental health tips and common issues, providing a visually appealing way to organise content.
 - Tablet/Mobile View
-- Emotionally Safe UI: Warm color palette in shades of Ukrainian flag, gentle illustrations, and reassuring language that avoids overwhelming users.
-- Resource Links.
-- Technologies Used: Languages, Frameworks, Libraries, Programs.
+- Resource Links (both English and Ukrainian language friendly).
+- Technologies Used: Languages (HTML, CSS), Frameworks, Libraries, Programs.
+- Mark known bugs.
 
-- Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as could-have for now, as Future Feature).
+# Could-haves:
+- Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as for now, as Future Feature).
 
 ## Core Website Sections
 
