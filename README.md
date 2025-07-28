@@ -13,7 +13,27 @@ Our mission is:
 
  "To provide accessible, compassionate guidance that helps educators, families, and volunteers safeguard and support displaced Ukrainian children during times of conflict."
 
-[TOC]
+## Table of Contents
+
+- [User Stories](#user-stories-diligently-created-by-copilot)
+- [Strategy](#strategy)
+    - [Must-have Tasks](#tasks-to-do-marked-as-must-have)
+    - [Could-haves](#could-haves)
+- [Wireframes](#the-wireframes-did-my-best)
+- [Core Website Sections](#core-website-sections)
+    - [Navigation Bar](#navigation-bar)
+    - [Hero image with overlay text on it](#hero-image-with-overlay-text-on-it)
+    - [Section 1. Introduction](#section-1-introduction)
+    - [Section 2. Key concerns](#section-2-key-concerns)
+    - [Section 3. How can you help](#section-4-how-can-you-help)
+    - [Section 4. Professional Mental Health Support](#section-3-professional-mental-health-support)
+    
+    - [Section 5. Resource Hub](#section-5)
+    - [Section 6. Ask](#section-6-ask)
+    - [Footer. Contacts.](#footer-contacts)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)       
 
 
 ### User Stories (diligently created by Copilot)
