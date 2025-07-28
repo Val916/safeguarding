@@ -78,17 +78,27 @@ Links to trusted services and multilingual helplines.
 <li>Technologies Used: Languages (HTML, CSS), Frameworks, Libraries, Programs.</li>
 <li>Mark known bugs.</li>
 </ol>
+
 # Could-haves:
 - Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as for now, as Future Feature).
+
+
+## The wireframes (did my best).
+
+- Phone size wireframe mock-up.:
+
+![](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg)
+
+
+- Phone size wireframe mock-up.:
+
+![](https://github.com/Val916/safeguarding/blob/main/assets/images/laptop-size.jpg)
+
 
 ## Core Website Sections
 
 __Navigation Bar__
-
-Links to move fast around the sections on the page:
-
-- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg)
-- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/wide-size.jpg)
+Made with Bootstrap nav
 
 __Hero image with overlay text on it__
 
