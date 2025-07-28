@@ -83,18 +83,12 @@ __Navigation Bar__
 
 Links to move fast around the sections on the page:
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg "Logo Title Text 2"
-
-
-- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size-mock-up.jpg)
-- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/wide-size-mock-up.jpg)
+- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg)
+- ![Responsive Mockup](https://github.com/Val916/safeguarding/blob/main/assets/images/wide-size.jpg)
 
 __Hero image with overlay text on it__
 
-![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpeg)
+![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero.jpeg)
 
 
 Bullet Points for Action Steps, divided by sections: 
@@ -105,7 +99,7 @@ __Section 1. Introduction__
 - Label:For Ukrainian Families.
 The same info translated in Ukrainian, link to the second page.
 
-![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero-for-ukr.jpg)
+![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpg)
 
 __Section 2. Key concerns__
 
@@ -119,7 +113,7 @@ How the organisation is helping already:
 - Mental health volonteer support from the therapists.
 - Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
 
-![Support](https://github.com/Val916/safeguarding/blob/main/assets/images/mental-support.jpeg)
+![Support](https://github.com/Val916/safeguarding/blob/main/assets/images/support.jpeg)
 
 
 __Section 4. How can you help__
@@ -128,7 +122,7 @@ __Section 4. How can you help__
 ![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/how-can-you-help.jpeg)
 
 
-__Section 5. Resorce Hub__
+__Section 5.  __
 - FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 
 
