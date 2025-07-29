@@ -73,7 +73,7 @@ Secure and respectful design aligned with emotional sensitivity.
 <li>Offer downloadable PDFs or printable checklists (optional future enhancement).</li>
 <li>Audit content tone for empathy, clarity, and cultural relevance.</li></ol>
 
-              User Story 3:Ukrainian Mother Seeking Safety for Her Child
+              User Story 3: Ukrainian Mother Seeking Safety for Her Child
 As a Ukrainian mother who recently arrived in the UK with my child, I want to know how to keep my child safe, find trustworthy help, and feel supported as we rebuild our life, So that I can make confident decisions and help my child feel secure in this new environment.
 
 - Acceptance Criteria
@@ -166,6 +166,9 @@ __Section 4. How can you help__
 __Section 5. Resourse Hub__
 - FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 
+__Section Title: Support in Schools__ 
+
+To help Ukrainian refugee children feel safe, welcome, and supported in British schools—and equip educators with the tools they need to respond with empathy and awareness.
 
 __Section 6. Ask__
 Feedback form.
