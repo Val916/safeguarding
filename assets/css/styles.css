@@ -5,15 +5,16 @@ nav.navbar {
     background-color: #B3DDED !important;
     padding: 10px;
 }
+/* Center navbar items */
+.navbar-nav {
+    margin: 0 auto;
+}
 
 title {
     text-align: center;
 }
 
-/* Center navbar items */
-.navbar-nav {
-    margin: 0 auto;
-}
+
 
 body {
     font-family: 'Roboto', 'Carlito', 'sans-serif';
