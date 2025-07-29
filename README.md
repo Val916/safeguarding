@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/Val916/safeguarding/blob/main/assets/images/banner-for-readme.png "My Banner")
+![Banner](https://github.com/Val916/safeguarding/blob/main/assets/images/banner.png "My Banner")
 
 <!--<img alt="Static Badge" src="https://img.shields.io/badge/be%20careful%2C%20it's%20about%20the%20war"> not working for now, marked as bug-->
 
@@ -37,6 +37,7 @@ Our mission is:
 
 
 ## User Stories (diligently created by Copilot)
+[GitHub Project](https://github.com/users/Val916/projects/2)
 
          User Story 1: School Teacher Supporting Displaced Children
 As a primary school teacher in the UK,  
