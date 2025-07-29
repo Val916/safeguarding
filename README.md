@@ -1,10 +1,6 @@
 
 ![Banner](https://github.com/Val916/safeguarding/blob/main/assets/images/banner.png "My Banner")
 
-<!--<img alt="Static Badge" src="https://img.shields.io/badge/be%20careful%2C%20it's%20about%20the%20war"> not working for now, marked as bug-->
-
-Seriously.
-
 # Protecting the vulnerable, supporting the displaced.
 The war in Ukraine: key safeguarding concerns.
 
@@ -36,7 +32,7 @@ Our mission is:
 - [Credits](#credits)       
 
 
-## User Stories (diligently created by Copilot)
+## User Stories
 [GitHub Project](https://github.com/users/Val916/projects/2)
 
          User Story 1: School Teacher Supporting Displaced Children
@@ -133,61 +129,61 @@ __Hero image with overlay text on it__
 ![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero.jpeg)
 
 
-Bullet Points for Action Steps, divided by sections: 
-Present the safeguarding steps as a list using Bootstrap’s list group or standard bullet points, ensuring clarity.
+Bullet Points for Action Steps, divided by sections.
+Present the safeguarding steps as a list using Bootstrap’s cards, ensuring clarity.
 
-__Section 1. Introduction__
+__Section 1. Introduction (header)__
 - General info about the problem. 
-- Label:For Ukrainian Families.
+
 The same info translated in Ukrainian, link to the second page.
+![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpg) with __Section 2. Ukrainian language page__
 
-![Hero section for Ukrainian](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpg) with __Section 7. Ukrainian language page__
-
-__Section 2. Key concerns__
+__Section 3. Key concerns__
 
 Concerns and their causes.
-![Concerns](https://github.com/Val916/safeguarding/blob/main/assets/images/concerns-child.jpg)
 
-__Section 3. Professional Mental Health Support__
+__Section 4. How can you help__
+ Simple steps to do if you would like to help.
+![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help.jpeg)
+
+__Section 5. Professional Mental Health Support__
 
 How the organisation is helping already:
 - Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
 - Mental health volonteer support from the therapists.
 - Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
-
 ![Support](https://github.com/Val916/safeguarding/blob/main/assets/images/support.jpeg)
 
+__Section 6. Resourse Hub__
 
-__Section 4. How can you help__
- Simple steps to do if you would like to help.
+ FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
+![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub.jpeg)
 
-![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/how-can-you-help.jpeg)
-
-
-__Section 5. Resourse Hub__
-- FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
-
-Section Title: Helpful Downloads for Ukrainian Families
-🎯 Purpose:
+__Section 7. Downloads__
+  
 To provide clear, offline-accessible materials that help Ukrainian refugees navigate life in the UK — from safeguarding and education to legal support and wellbeing.
+![Download](https://github.com/Val916/safeguarding/blob/main/assets/images/download.jpeg)
 
-__Section Title: Support in Schools__ 
+__Section 8: Support in Schools__ 
 
 To help Ukrainian refugee children feel safe, welcome, and supported in British schools—and equip educators with the tools they need to respond with empathy and awareness.
+![Support in Schools](https://github.com/Val916/safeguarding/blob/main/assets/images/school.png)
 
-__Section 6. Ask__
-Feedback form.
+__Section 9. Feedback form__
+
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
-__Section 7. Ukrainian language page__
+![Feedback](https://github.com/Val916/safeguarding/blob/main/assets/images/feedback.jpg)
 
 
-__Footer. Contacts.__
+__Section 10. Contacts (footer)__
 Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
-
-
+![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/)
 
 ## Testing 
+
+
+
 
 ### Validator Testing 
 - HTML 
@@ -196,9 +192,13 @@ Contact Section: Include a simple contact form or a list of important contacts, 
 
 ### Unfixed Bugs
 
+<!--<img alt="Static Badge" src="https://img.shields.io/badge/be%20careful%2C%20it's%20about%20the%20war"> not working in Readme.md for now, marked as bug-->
+
+
+
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
@@ -207,17 +207,38 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+All the links to educational and helpful resources are heading directly to the originals.
+For example: 
+<a href="https://www.mentalhealth.org.uk/our-work/programmes/refugees/resources" target="_blank">Mental Health Foundation</a>
+ - Mental Health Foundation – Refugee Resources Offers translated advice, educational films, and guides for refugees and asylum seekers.
+ <a href="https://www.unicef.org/child-protection/migrant-displaced-children" target="_blank">UNICEF – Displaced Children</a>
+ – Migrant and Displaced Children Global safeguarding strategies and child-friendly spaces.
+ 
+## Media Content 
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+User Stories, most of the text content and all images were diligently created by Copilot.
 
-### Content 
+### Languages
+- **HTML5** - Semantic markup for website structure
+- **CSS3** - Styling and responsive design
+- **Markdown** - Documentation (README.md)
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+### Frameworks & Libraries
+- **Bootstrap 5.3.7** - Responsive grid system, components (cards, navbar, buttons)
+- **Font Awesome 27f757781e** - Icon library for visual enhancement
+- **Google Fonts** - Typography (Roboto, Carlito font families)
 
-### Media
+### Programs & Tools
+- **Visual Studio Code** - Code editor and development environment
+- **GitHub** - Version control and project repository
+- **GitHub Pages** - Website hosting and deployment
+- **AI Image Generation** - Hero images and card visuals
+- **Git** - Version control system
+- **Browser Developer Tools** - Testing and debugging
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+### Key Features Implemented
+- **Responsive Design** - Mobile-first approach with Bootstrap grid
+- **Bilingual Support** - English and Ukrainian language versions
+- **Accessibility** - Semantic HTML, alt tags, ARIA labels
+- **Cross-browser Compatibility** - Modern browser support
+- **Performance Optimization** - Optimized images and efficient CSS

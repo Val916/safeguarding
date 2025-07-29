@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 nav.navbar {
-    background-color: #B3DDED !important;
+    background-color: #54a4d3d0 !important;
     padding: 10px;
 }
 /* Center navbar items */
@@ -55,7 +55,7 @@ a {
       flex: 1;}
 
 footer {
-      background-color: #F1C232;
+      background-color: #eec13aac;
       font-size: smaller;
       padding: 20px;
       margin-top: 20px;
