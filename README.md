@@ -166,6 +166,10 @@ __Section 4. How can you help__
 __Section 5. Resourse Hub__
 - FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 
+Section Title: Helpful Downloads for Ukrainian Families
+🎯 Purpose:
+To provide clear, offline-accessible materials that help Ukrainian refugees navigate life in the UK — from safeguarding and education to legal support and wellbeing.
+
 __Section Title: Support in Schools__ 
 
 To help Ukrainian refugee children feel safe, welcome, and supported in British schools—and equip educators with the tools they need to respond with empathy and awareness.
