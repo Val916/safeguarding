@@ -46,14 +46,32 @@ a {
     justify-content: center;
     margin: auto;
     margin-top: 20px;
+    max-width: 800px; /*Sets maximum width for larger screens*/ 
+    width: 100%;
 }
+
+/* Media query: Responsive card-7 sizing for larger screens*/
+
+@media (max-width: 768px) {
+    .card-7 {
+        max-width: 100%; /*Makes it take full available width up to max-width*/
+        padding: 0 15px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .card-7 {
+        max-width: 600px;
+    }
+}
+
 
 main {
 
       flex: 1;}
 
 footer {
-      background-color: #e4c112;
+      background-color: #F1C232;
       font-size: smaller;
       padding: 20px;
       margin-top: 20px;
