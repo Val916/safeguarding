@@ -2,10 +2,7 @@
 ![Banner](https://github.com/Val916/safeguarding/blob/main/assets/images/banner.png "My Banner")
 
 # Protecting the vulnerable, supporting the displaced.
-The war in Ukraine: __Section 10. Contacts (footer)__
-Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap's form components, for reporting safeguarding concerns.
-
-## Testingafeguarding concerns.
+The war in Ukraine: key safeguarding concerns.
 
 The web-site devoted to help people in need.
 Our mission is:
@@ -14,35 +11,58 @@ Our mission is:
 
 # Table of Contents
 
-- [User Stories](#user-stories-diligently-created-by-copilot)
+- [User Stories](#user-stories)
 - [Strategy](#strategy)
     - [Must-have Tasks](#tasks-to-do-marked-as-must-have)
     - [Could-haves](#could-haves)
 - [Wireframes](#the-wireframes-did-my-best)
+- [Typography](#typography)
 - [Core Website Sections](#core-website-sections)
     - [Navigation Bar](#navigation-bar)
-    - [Hero image with overlay text on it](#hero-image-with-overlay-text-on-it)
-    - [Section 1. Introduction](#section-1-introduction)
-    - [Section 2. Key concerns](#section-2-key-concerns)
-    - [Section 3. How can you help](#section-4-how-can-you-help)
-    - [Section 4. Professional Mental Health Support](#section-3-professional-mental-health-support)
-    
-    - [Section 5. Resource Hub](#section-5)
-    - [Section 6. Ask](#section-6-ask)
-    - [Footer. Contacts.](#footer-contacts)
+    - [Main](#main)
+    - [Header](#introduction-header)
+    - [Ukrainian language page](#ukrainian-language-page)
+    - [How can you help](#how-can-you-help)
+    - [Professional Mental Health Support](#professional-mental-health-support)
+    - [Resource Hub](#resourse-hub)
+    - [Downloads](#downloads)
+    - [Support in Schools](#support-in-schools)
+    - [Feedback form](#feedback-form)
+    - [Contacts (footer)](#contacts-footer)
 - [Testing](#testing)
-    - [Browser Testing](#browser-testing)
     - [Responsive Design Testing](#responsive-design-testing)
     - [Validator Testing](#validator-testing)
     - [Manual Testing](#manual-testing)
     - [Unfixed Bugs](#unfixed-bugs)
 - [Deployment](#deployment)
-- [Credits](#credits)       
+- [Credits](#credits)
+- [Media Content](#media-content)
+- [Future features](#future-features)       
 
+## User Stories
+[GitHub Project](https://github.com/users/Val916/projects/2)
 
+         User Story 1: School Teacher Supporting Displaced Children
+As a primary school teacher in the UK,  
+I want to learn how to create a safe and welcoming classroom for Ukrainian refugee students,  
+So that I can help them feel secure, emotionally supported, and integrated into the school community.
+
+            User Story 2: Mental Health Professional
+As a child therapist working with conflict-affected youth,  
+I want to find referral pathways and learn how trauma from war impacts children,  
+So that I can offer appropriate counseling and connect clients with long-term care.
+
+              User Story 3: Ukrainian Mother Seeking Safety for Her Child
+As a Ukrainian mother who recently arrived in the UK with my child, I want to know how to keep my child safe, find trustworthy help, and feel supported as we rebuild our life, So that I can make confident decisions and help my child feel secure in this new environment.
+
+- Content should include examples of emotional support strategies and classroom adaptations at the same time with professional mental health support links and downloadable documents and checklists.
+Page links to additional training and mental health resources.
+Available on mobile and desktop without layout errors.
+
+![Project](https://github.com/Val916/safeguarding/blob/main/assets/images/project.png)
 
 ## Strategy.
-# Tasks to do, marked as must-have:
+### Tasks to do, marked as must-have:
 
 <ol>
 <li>User-stories in Github Project</li>
@@ -58,81 +78,27 @@ Our mission is:
 <li>Mark known bugs.</li>
 </ol>
 
-# Could-haves:
+### Could-haves:
 - Storytelling Section: Short, uplifting stories or testimonials that provide hope and build trust (Marked as for now, as Future Feature).
-
-
-## User Stories
-[GitHub Project](https://github.com/users/Val916/projects/2)
-
-         User Story 1: School Teacher Supporting Displaced Children
-As a primary school teacher in the UK,  
-I want to learn how to create a safe and welcoming classroom for Ukrainian refugee students,  
-So that I can help them feel secure, emotionally supported, and integrated into the school community.
-
-- Acceptance Criteria
-Teacher can access practical safeguarding tips on one responsive webpage.
-
-Content includes examples of emotional support strategies and classroom adaptations.
-Page links to additional training and mental health resources.
-Available on mobile and desktop without layout errors.
-
-- Tasks
-<ol><li>Add a section titled "Support in Schools" with teacher-specific guidance</li>
-<li>Create visual icons for emotional care, inclusive teaching, and trauma awareness.</li>
-<li>Include links to trusted external resources for mental health and safeguarding training.</li>
-<li>Use Bootstrap’s grid system to maintain layout across screen sizes.</li></ol>
-
-            User Story 2: Mental Health Professional
-As a child therapist working with conflict-affected youth,  
-I want to find referral pathways and learn how trauma from war impacts children,  
-So that I can offer appropriate counseling and connect clients with long-term care.
-
-- Acceptance Criteria
-Section includes trauma-informed guidance and case examples.
-Clearly lists referral contacts or paths within UK safeguarding systems.
-Content uses clear, professional language accessible to therapists.
-Secure and respectful design aligned with emotional sensitivity.
-
-- Tasks
-<ol><li>Add section “Trauma and Mental Health Support”.</li>
-<li>Include a visual guide.</li>
-<li>Offer downloadable PDFs or printable checklists (optional future enhancement).</li>
-<li>Audit content tone for empathy, clarity, and cultural relevance.</li></ol>
-
-              User Story 3: Ukrainian Mother Seeking Safety for Her Child
-As a Ukrainian mother who recently arrived in the UK with my child, I want to know how to keep my child safe, find trustworthy help, and feel supported as we rebuild our life, So that I can make confident decisions and help my child feel secure in this new environment.
-
-- Acceptance Criteria
-Page uses calm, reassuring language with culturally sensitive messaging.
-Key safeguarding risks explained clearly (e.g. school environments, online safety, housing concerns).
-Visual cues and translated phrases for familiarity and ease.
-Links to trusted services and multilingual helplines.
-- Tasks
-<ol>
-<li>Create a “For Ukrainian Families” page.</li>
-<li>Use icons or visuals that represent family, security, and emotional support.</li>
-<li>Translate key portions into Ukrainian, especially safety tips.</li>
-<li>Add info on navigating schools, healthcare, and community support in the UK.</li></ol>
-
 
 ## The wireframes (did my best).
 
 - Phone size wireframe mock-up:
 
-![](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg)
+![Phone mock-up](https://github.com/Val916/safeguarding/blob/main/assets/images/phone-size.jpg)
 
+- Laptop size wireframe mock-up:
 
-- Phone size wireframe mock-up:
-
-![](https://github.com/Val916/safeguarding/blob/main/assets/images/laptop-size.jpg)
-
+![Laptop size mock-up](https://github.com/Val916/safeguarding/blob/main/assets/images/laptop-size.jpg)
 
 
 ## Typography
 
-[GoogleFonts ](https://fonts.google.com/)
-Roboto', 'Carlito
+[Font Awesome](https://fontawesome.com/) icons were used for the site icons. For example, the social media icons in the footer of the pages.
+
+[Roboto](https://fonts.google.com/specimen/Roboto) was used for the primary headers and titles.
+
+[Open Sans](https://fonts.google.com/specimen/Open+Sans) was used for all other secondary text.
 
 ![Palette](https://github.com/Val916/safeguarding/blob/main/assets/images/palette.jpg)
 
@@ -148,72 +114,58 @@ Roboto', 'Carlito
 ## Core Website Sections
 
 __Navigation Bar__
-Made with Bootstrap nav
 
-__Hero image__
+Made with Bootstrap:
+![Navbar wide size](https://github.com/Val916/safeguarding/blob/main/assets/images/heronavbar-wide.jpeg)
+![Navbar phone size](https://github.com/Val916/safeguarding/blob/main/assets/images/navbar-phone.jpeg)
 
-![Hero Image](https://github.com/Val916/safeguarding/blob/main/assets/images/hero.jpeg)
+__Main__
+![Responsive](https://github.com/Val916/safeguarding/blob/main/assets/images/responsive.png)
+
+![Main wide 1](https://github.com/Val916/safeguarding/blob/main/assets/images/main-wide.png)
+
+![Main wide 2](https://github.com/Val916/safeguarding/blob/main/assets/images/main-cards.png)
 
 
-Bullet Points for Action Steps, divided by sections.
-Present the safeguarding steps as a list using Bootstrap’s cards, ensuring clarity.
+Bullet Points of content present the safeguarding steps as a responsive table using Bootstrap’s cards, ensuring clarity.
 
-__Section 1. Introduction (header)__
+__Header__
 - General info about the problem. 
-
 The same info translated in Ukrainian, link to the second page.
-![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/hero2.jpg) with __Section 2. Ukrainian language page__
+![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/ukr-page.png) with 
+__Ukrainian language page__
 
-__Section 3. Key concerns__
+__How can you help__
+ Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline [Hospitallers](https://www.hospitallers.org.uk/)
+![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help-screen.jpeg)
 
-Concerns and their causes.
-
-__Section 4. How can you help__
- Simple steps to do if you would like to help.
-![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help.jpeg)
-
-__Section 5. Professional Mental Health Support__
-
+__Professional Mental Health Support__
 How the organisation is helping already:
 - Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
 - Mental health volonteer support from the therapists.
 - Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
-![Support](https://github.com/Val916/safeguarding/blob/main/assets/images/support.jpeg)
 
-__Section 6. Resourse Hub__
-
+__Resourse Hub__
  FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
-![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub.jpeg)
+![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub-screen.jpeg)
 
-__Section 7. Downloads__
-  
+__Downloads__
 To provide clear, offline-accessible materials that help Ukrainian refugees navigate life in the UK — from safeguarding and education to legal support and wellbeing.
-![Download](https://github.com/Val916/safeguarding/blob/main/assets/images/download.jpeg)
 
-__Section 8: Support in Schools__ 
-
+__Support in Schools__ 
 To help Ukrainian refugee children feel safe, welcome, and supported in British schools—and equip educators with the tools they need to respond with empathy and awareness.
-![Support in Schools](https://github.com/Val916/safeguarding/blob/main/assets/images/school.png)
 
-__Section 9. Feedback form__
-
+__Feedback form__
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
 ![Feedback](https://github.com/Val916/safeguarding/blob/main/assets/images/feedback.jpg)
 
 
-__Section 10. Contacts (footer)__
+__Footer/Contacts__
 Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
-![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/)
+![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/footer.png)
 
 ## Testing 
-
-### Browser Testing
-
-- **Chrome** ✅ - Full functionality tested
-- **Firefox** ✅ - Cross-browser compatibility verified  
-- **Safari** ✅ - Mobile and desktop versions
-- **Edge** ✅ - Microsoft browser support
 
 ### Responsive Design Testing
 - **Mobile devices** (320px-768px) ✅
@@ -221,9 +173,14 @@ Contact Section: Include a simple contact form or a list of important contacts, 
 - **Desktop screens** (1024px+) ✅
 
 ### Validator Testing 
+
 - **HTML** ✅ - No errors found using [W3C HTML Validator](https://validator.w3.org/)
+
+![HTML Validation](https://github.com/Val916/safeguarding/blob/main/assets/images/html-check.png)
+
 - **CSS** ✅ - No errors found using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-- **Accessibility** ✅ - WAVE accessibility checker passed
+
+![CSS Validation](https://github.com/Val916/safeguarding/blob/main/assets/images/css-check.png)
 
 ### Manual Testing
 - ✅ All navigation links work correctly
@@ -232,18 +189,18 @@ Contact Section: Include a simple contact form or a list of important contacts, 
 - ✅ Images load correctly with proper alt text
 - ✅ External links open in new tabs
 
+
 ### Unfixed Bugs
 - Badge display issue in README.md (commented out for now)
 - No major functional bugs identified
-
 
 
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the left bar menu, select the Pages
+  - Once the branch Main has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://val916.github.io/safeguarding/ 
 
@@ -277,6 +234,7 @@ User Stories, most of the text content and all images were diligently created by
 - **AI Image Generation** - Hero images and card visuals
 - **Git** - Version control system
 - **Browser Developer Tools** - Testing and debugging
+- **Tinypng.com** - Making the images ans screnshots light-weight
 
 ### Key Features Implemented
 - **Responsive Design** - Mobile-first approach with Bootstrap grid
@@ -284,3 +242,7 @@ User Stories, most of the text content and all images were diligently created by
 - **Accessibility** - Semantic HTML, alt tags, ARIA labels
 - **Cross-browser Compatibility** - Modern browser support
 - **Performance Optimization** - Optimized images and efficient CSS
+
+## Future features
+
+Add storytelling page with refugee stories.
