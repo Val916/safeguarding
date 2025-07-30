@@ -137,7 +137,7 @@ __Ukrainian language page__
 
 __How can you help__
  Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline [Hospitallers](https://www.hospitallers.org.uk/)
-![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help-screen.jpeg)
+![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help-screen.png)
 
 __Professional Mental Health Support__
 How the organisation is helping already:
@@ -147,7 +147,7 @@ How the organisation is helping already:
 
 __Resourse Hub__
  FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
-![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub-screen.jpeg)
+![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub-screen.png)
 
 __Downloads__
 To provide clear, offline-accessible materials that help Ukrainian refugees navigate life in the UK — from safeguarding and education to legal support and wellbeing.
