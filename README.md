@@ -129,39 +129,39 @@ __Main__
 
 Bullet Points of content present the safeguarding steps as a responsive table using Bootstrap’s cards, ensuring clarity.
 
-__Header__
+##### Header
 - General info about the problem. 
 The same info translated in Ukrainian, link to the second page.
 ![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/ukr-page.png) with 
 __Ukrainian language page__
 
-__How can you help__
+##### How can you help
  Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline [Hospitallers](https://www.hospitallers.org.uk/)
 ![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help-screen.png)
 
-__Professional Mental Health Support__
+##### Professional Mental Health Support
 How the organisation is helping already:
 - Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
 - Mental health volonteer support from the therapists.
 - Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
 
-__Resourse Hub__
+##### Resourse Hub
  FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 ![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub-screen.png)
 
-__Downloads__
+##### Downloads
 To provide clear, offline-accessible materials that help Ukrainian refugees navigate life in the UK — from safeguarding and education to legal support and wellbeing.
 
-__Support in Schools__ 
+##### Support in Schools
 To help Ukrainian refugee children feel safe, welcome, and supported in British schools—and equip educators with the tools they need to respond with empathy and awareness.
 
-__Feedback form__
+##### Feedback form
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
 ![Feedback](https://github.com/Val916/safeguarding/blob/main/assets/images/feedback.jpg)
 
 
-__Footer/Contacts__
+##### Footer/Contacts
 Contact Section: Include a list of important contacts, styled with Fontawesome icons. Button link "Back to the Top of the page" added with an arrow Up - to make it easy to return to the beginning without scrolling. 
 ![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/footer.png)
 
