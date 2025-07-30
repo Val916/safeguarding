@@ -189,6 +189,12 @@ Contact Section: Include a list of important contacts, styled with Fontawesome i
 - ✅ Images load correctly with proper alt text
 - ✅ External links open in new tabs
 
+ ### Chrome Google Tools Lighthouse 
+ shows the results:
+![Desktop](https://github.com/Val916/safeguarding/blob/main/assets/images/lighthouse-full.png)
+
+![Mobile](https://github.com/Val916/safeguarding/blob/main/assets/images/lighthouse-mob.png)
+
 
 ### Unfixed Bugs
 - Badge display issue in README.md (commented out for now)
