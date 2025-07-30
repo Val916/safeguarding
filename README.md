@@ -20,7 +20,7 @@ Our mission is:
 - [Core Website Sections](#core-website-sections)
     - [Navigation Bar](#navigation-bar)
     - [Main](#main)
-    - [Header](#introduction-header)
+    - [Header](#header)
     - [Ukrainian language page](#ukrainian-language-page)
     - [How can you help](#how-can-you-help)
     - [Professional Mental Health Support](#professional-mental-health-support)
@@ -28,7 +28,7 @@ Our mission is:
     - [Downloads](#downloads)
     - [Support in Schools](#support-in-schools)
     - [Feedback form](#feedback-form)
-    - [Contacts (footer)](#contacts-footer)
+    - [Footer/Contacts](#footercontacts)
 - [Testing](#testing)
     - [Responsive Design Testing](#responsive-design-testing)
     - [Validator Testing](#validator-testing)
@@ -162,7 +162,7 @@ Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidentia
 
 
 __Footer/Contacts__
-Contact Section: Include a simple contact form or a list of important contacts, styled with Bootstrap’s form components, for reporting safeguarding concerns.
+Contact Section: Include a list of important contacts, styled with Fontawesome icons. Button link "Back to the Top of the page" added with an arrow Up - to make it easy to return to the beginning without scrolling. 
 ![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/footer.png)
 
 ## Testing 

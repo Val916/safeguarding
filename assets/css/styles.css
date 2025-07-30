@@ -1,20 +1,15 @@
 
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 nav.navbar {
     background-color: #54a4d3d0 !important;
     padding: 10px;
 }
+
 /* Center navbar items */
 .navbar-nav {
     margin: 0 auto;
 }
-
-title {
-    text-align: center;
-}
-
 
 body {
     font-family: 'Roboto', 'Open Sans', 'sans-serif';
@@ -25,41 +20,49 @@ body {
     flex-direction: column;
 }
 
- h1, h2 {
+h1, h2 {
     margin: 10px;
     text-align: center;
 }
 
 .card-img-top {
     height: 320px;
+    width: 100%;
+    /* Ensure images cover the card area, maintaining aspect ratio */
+    object-fit: cover;
+    object-position: center;
 }
 
 .ukr {
     height: 412.77px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
 }
-
 
 a {
     color: #0c3f72;
     text-decoration: none;
 }
- a:hover{
-    color: #ee4e04;}
 
-  section .text-dark {
-      background-color: #8ECAE6;
-  }
+a:hover{
+    color: #ee4e04;
+}
 
-  main {
+section .text-dark {
+    background-color: #8ECAE6;
+}
 
-      flex: 1;}
+main {
+    flex: 1;
+}
 
 footer {
-      background-color: #eec13aac;
-      font-size: smaller;
-      padding: 20px;
-      margin-top: 20px;
-      text-align: center;
+    background-color: #eec13aac;
+    font-size: smaller;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
 
 .card-7 {
@@ -67,14 +70,14 @@ footer {
     justify-content: center;
     margin: auto;
     margin-top: 20px;
-    max-width: 800px; /*Sets maximum width for larger screens*/ 
+    max-width: 800px;
     width: 100%;
 }
 
 /* Media query: Responsive card-7 sizing for larger screens*/
 @media (max-width: 768px) {
     .card-7 {
-        max-width: 100%; /*Makes it take full available width up to max-width*/
+        max-width: 100%;
         padding: 0 15px;
     }
 }
@@ -84,7 +87,3 @@ footer {
         max-width: 600px;
     }
 }
-
-
-
-  
