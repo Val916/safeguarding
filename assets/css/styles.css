@@ -11,6 +11,10 @@ nav.navbar {
     margin: 0 auto;
 }
 
+.hero-image {
+    box-shadow: 2px 2px 4px #0c3f72;
+    }
+
 body {
     font-family: 'Roboto', 'Open Sans', 'sans-serif';
     background-color: #fbf2d1;
