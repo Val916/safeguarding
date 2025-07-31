@@ -51,7 +51,7 @@
           <a class="nav-link" href="#download">Download</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="#support">School</a>
+          <a class="nav-link" href="#school">School</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#feedback">Feedback</a>
@@ -66,7 +66,14 @@
 
     <!-- Hero image -->
         <div class="hero-image">
-        <img src="assets/images/hero.jpeg" alt="Hero Image" class="img-fluid w-100" style="height: 350px; object-fit: cover;">
+            <picture>
+                <!-- If the viewport is 500px or narrower, show the smaller image -->
+                <source media="(max-width: 500px)" srcset="assets/images/hero700.jpg">
+                <!-- If the viewport is wider than 500px, show the larger image -->
+                <source media="(min-width: 501px)" srcset="assets/images/hero1700.jpeg">
+                <!-- Default fallback image -->
+                <img src="assets/images/hero1700.jpeg" alt="Hero Image" class="img-fluid w-100" style="height: 350px; object-fit: cover;">
+            </picture>
         </div>
 
     <header>
@@ -79,7 +86,7 @@
                            
                             <p class="card-text">The war in Ukraine has raised significant concerns about the safety and well-being of children and young people in conflict zones. This guide aims to provide safeguarding professionals and volunteers with the necessary tools and knowledge to protect those at risk. 
                                 </p>
-                                <p>russian invasion has led to widespread displacement, separating children from their families and exposing them to trauma and violence. These conditions severely affect their emotional and developmental well-being.
+                                <p>The russian invasion has led to widespread displacement, separating children from their families and exposing them to trauma and violence. These conditions severely affect their emotional and developmental well-being.
 </p>
                         </div>
                         <div class="card-footer">
@@ -130,11 +137,11 @@
                             <h5 class="card-title"><i class="fa-solid fa-suitcase-medical"></i> How can you help?</h5>
                             <p class="card-text">Find ways to support children and families affected by conflict.</p>
                             <ul class="list-unstyled">
-                                <li>• Volunteer Now – Safeguarding Training Offers free and low-cost safeguarding modules for staff and volunteers.</li>
+                                <li>• Volunteer Now – Safeguarding Training offers free and low-cost safeguarding modules for staff and volunteers.</li>
                                 <li>• Be trauma-aware</li>
                                 <li>• Report safeguarding concerns</li>
                                 <li>• Offer kindness and consistency</li>
-                                <li>• Donate to those who you trust</li>
+                                <li>• Donate to those you trust</li>
                             </ul>
                             <div class="mt-auto">
                                 <a href="https://www.hospitallers.org.uk/" class="btn btn-primary">Donate</a>
@@ -187,7 +194,7 @@
                 </div>
 
                 <!-- Download -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4" id="download">
                     <div class="card h-100">
                         <img src="assets/images/download.jpeg" class="card-img-top" alt="Downloadable Resources">
                         <div class="card-body d-flex flex-column">
@@ -206,12 +213,12 @@
                     </div>
                 </div>
                 <!-- School -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4" id="school">
                     <div class="card h-100">
                         <img src="assets/images/school.png" class="card-img-top" alt="School Support">
                         <div class="card-body d-flex flex-column">
                             <h5 class="card-title"><i class="fas fa-heartbeat"></i> Support in Schools</h5>
-                            <p class="card-text">For Educators and families, Mental Health Support in Schools, Safeguarding in Education.</p>
+                            <p class="card-text">For educators and families. Mental health support in schools, safeguarding in education.</p>
                             <ul class="list-unstyled">
                                 <li>• <a href="https://www.unhcr.org/what-we-do/protect-human-rights/safeguarding-individuals/children" target="_blank">UNHCR Children’s Protection</a></li>
                                 <li>• Dealing with language barriers compassionately</li>
@@ -225,7 +232,7 @@
                     </div>
                 </div>
                 <!-- Feedback -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4" id="feedback">
                     <div class="card h-100">
                         <img src="assets/images/feedback.jpg" class="card-img-top" alt="Feedback Form">
                         <div class="card-body d-flex flex-column">
@@ -259,7 +266,7 @@
 
     <h6>Contact Us</h6><address>Email: <a href="mailto:info@safeguardingconflict.org" aria-label="Email">info@safeguardingconflict.org</a>
     <p>Phone: +44 1234 567890</p>
-    Address: 777 THANK-YOU-FOR-YOUR-SUPPORT St, Cheshire, the capital of smiley people.
+    Address: 777 Thank You For Your Support St, Cheshire, the capital of smiley people.
     <a href="https://twitter.com/safeguardingconflict" target="_blank" aria-label="Twitter"> <i class="fa-brands fa-twitter"></i> Twitter</a> <a href="https://www.facebook.com/safeguardingconflict" target="_blank" aria-label="Facebook"> <i class="fa-brands fa-facebook"></i> Facebook</a>
     <a href="https://www.gov.uk/government/publications/working-together-to-safeguard-children--2" target="_blank" aria-label="UK Safeguarding Policy"><i class="fa-solid fa-shield-heart"></i> UK Safeguarding Policy</a>
     </address>
