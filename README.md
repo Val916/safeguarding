@@ -41,6 +41,7 @@ Our mission is:
 - [Future features](#future-features)       
 
 ## User Stories
+
 [GitHub Project](https://github.com/users/Val916/projects/2)
 
         User Story 1: School Teacher Supporting Displaced Children
@@ -117,12 +118,15 @@ Available on mobile and desktop without layout errors.
 ##### Navigation Bar
 
 Made with Bootstrap:
+
 ![Navbar wide size](https://github.com/Val916/safeguarding/blob/main/assets/images/heronavbar-wide.jpeg)
+
 ![Navbar phone size](https://github.com/Val916/safeguarding/blob/main/assets/images/navbar-phone.jpeg)
 
 ##### Header
 - General info about the problem. 
 The same info translated in Ukrainian, link to the second page.
+
 ![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/ukr-page.png) with 
 ##### Ukrainian language page
 
@@ -137,7 +141,10 @@ Bullet Points of content present the safeguarding steps as a responsive table us
 ![Main wide 2](https://github.com/Val916/safeguarding/blob/main/assets/images/main-cards.png)
 
 ##### How can you help
- Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline [Hospitallers](https://www.hospitallers.org.uk/)
+ Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline 
+
+ [Hospitallers](https://www.hospitallers.org.uk/)
+
 ![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help-screen.png)
 
 ##### Professional Mental Health Support
@@ -148,6 +155,7 @@ How the organisation is helping already:
 
 ##### Resourse Hub
  FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
+
 ![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub-screen.png)
 
 ##### Downloads
@@ -160,11 +168,13 @@ To help Ukrainian refugee children feel safe, welcome, and supported in British 
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
 ![Feedback](https://github.com/Val916/safeguarding/blob/main/assets/images/feedback-readme.png)
+
 ![Thank you page](https://github.com/Val916/safeguarding/blob/main/assets/images/thankyou-readme.png)
 
 
 ##### Footer/Contacts
 Contact Section: Include a list of important contacts, styled with Fontawesome icons. Button link "Back to the Top of the page" added with an arrow Up - to make it easy to return to the beginning without scrolling. 
+
 ![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/footer.png)
 
 ## Testing 
@@ -193,6 +203,7 @@ Contact Section: Include a list of important contacts, styled with Fontawesome i
 
  ### Chrome Google Tools Lighthouse 
  shows the results:
+
 ![Desktop](https://github.com/Val916/safeguarding/blob/main/assets/images/lighthouse-full.png)
 
 ![Mobile](https://github.com/Val916/safeguarding/blob/main/assets/images/lighthouse-mob.png)
