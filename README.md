@@ -105,13 +105,13 @@ Available on mobile and desktop without layout errors.
 ![Palette](https://github.com/Val916/safeguarding/blob/main/assets/images/palette.jpg)
 
 ### CSS HEX
---jasmine: #F7DA85ff;
---ecru: #C1B47Fff;
---gunmetal: #212C2Dff;
---cambridge-blue: #8C9B81ff;
---cornsilk: #FCF6D7ff;
---paynes-gray: #3C6880ff;
---air-force-blue: #4A83A4ff;
+- jasmine: #F7DA85ff;
+- ecru: #C1B47Fff;
+- gunmetal: #212C2Dff;
+- cambridge-blue: #8C9B81ff;
+- cornsilk: #FCF6D7ff;
+- paynes-gray: #3C6880ff;
+- air-force-blue: #4A83A4ff;
 
 ## Core Website Sections
 
@@ -119,16 +119,13 @@ Available on mobile and desktop without layout errors.
 
 Made with Bootstrap:
 
-![Navbar wide size](https://github.com/Val916/safeguarding/blob/main/assets/images/heronavbar-wide.jpeg)
+![Navbar wide size](https://github.com/Val916/safeguarding/blob/main/assets/images/navbar-wide.png)
 
-![Navbar phone size](https://github.com/Val916/safeguarding/blob/main/assets/images/navbar-phone.jpeg)
+![Navbar phone size](https://github.com/Val916/safeguarding/blob/main/assets/images/navbar-phone.png)
 
 ### Header
 - General info about the problem. 
 The same info translated in Ukrainian, link to the second page.
-
-![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/ukr-page.png) with 
-### Ukrainian language page
 
 ### Main
 
@@ -139,6 +136,9 @@ Bullet Points of content present the safeguarding steps as a responsive table us
 ![Main wide 1](https://github.com/Val916/safeguarding/blob/main/assets/images/main-wide.png)
 
 ![Main wide 2](https://github.com/Val916/safeguarding/blob/main/assets/images/main-cards.png)
+
+### Ukrainian language page
+![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/ukr-page.png) 
 
 ### How can you help
  Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline 
@@ -192,6 +192,8 @@ Contact Section: Include a list of important contacts, styled with Fontawesome i
 
 - **CSS** ✅ - No errors found using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+Green text approves me website, just in Ukrainian, sorry.
+
 ![CSS Validation](https://github.com/Val916/safeguarding/blob/main/assets/images/css-check.png)
 
 ### Manual Testing
@@ -208,6 +210,7 @@ Contact Section: Include a list of important contacts, styled with Fontawesome i
 
 ![Mobile](https://github.com/Val916/safeguarding/blob/main/assets/images/lighthouse-mob.png)
 
+The mobile performance still have space for improvements.
 
 ### Unfixed Bugs
 - Badge display issue in README.md (commented out for now)
@@ -266,6 +269,7 @@ User Stories, most of the text content and all images were diligently created by
 
 - Add storytelling page with refugee stories.
 - Ukranian translation for downloadable information.
+- The mobile performance still have space for improvements.
 
 
 
