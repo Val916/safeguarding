@@ -115,7 +115,7 @@ Available on mobile and desktop without layout errors.
 
 ## Core Website Sections
 
-##### Navigation Bar
+### Navigation Bar
 
 Made with Bootstrap:
 
@@ -123,14 +123,14 @@ Made with Bootstrap:
 
 ![Navbar phone size](https://github.com/Val916/safeguarding/blob/main/assets/images/navbar-phone.jpeg)
 
-##### Header
+### Header
 - General info about the problem. 
 The same info translated in Ukrainian, link to the second page.
 
 ![Ukrainian Page](https://github.com/Val916/safeguarding/blob/main/assets/images/ukr-page.png) with 
-##### Ukrainian language page
+### Ukrainian language page
 
-##### Main
+### Main
 
 Bullet Points of content present the safeguarding steps as a responsive table using Bootstrap’s cards, ensuring clarity.
 
@@ -140,31 +140,31 @@ Bullet Points of content present the safeguarding steps as a responsive table us
 
 ![Main wide 2](https://github.com/Val916/safeguarding/blob/main/assets/images/main-cards.png)
 
-##### How can you help
+### How can you help
  Simple steps to do if you would like to help. Conteins a real link for helping Ukrainian medics on the frontline 
 
  [Hospitallers](https://www.hospitallers.org.uk/)
 
 ![Help](https://github.com/Val916/safeguarding/blob/main/assets/images/help-screen.png)
 
-##### Professional Mental Health Support
+### Professional Mental Health Support
 How the organisation is helping already:
 - Volunteer Training Modules: Basic safeguarding knowledge for those helping children—interactive and certification-based if possible.
 - Mental health volonteer support from the therapists.
 - Organising events for kids, helping to adapt, find new friends, learn new language without additional stress.
 
-##### Resourse Hub
+### Resourse Hub
  FAQ and Resource Hub: Easy-to-understand answers to common safeguarding questions, translated into multiple languages.
 
 ![Hub](https://github.com/Val916/safeguarding/blob/main/assets/images/hub-screen.png)
 
-##### Downloads
+### Downloads
 To provide clear, offline-accessible materials that help Ukrainian refugees navigate life in the UK — from safeguarding and education to legal support and wellbeing.
 
-##### Support in Schools
+### Support in Schools
 To help Ukrainian refugee children feel safe, welcome, and supported in British schools—and equip educators with the tools they need to respond with empathy and awareness.
 
-##### Feedback form
+### Feedback form
 Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidential reporting of safeguarding concerns.
 
 ![Feedback](https://github.com/Val916/safeguarding/blob/main/assets/images/feedback-readme.png)
@@ -172,7 +172,7 @@ Anonymous Reporting Tool: A simple form or chatbot that allows safe, confidentia
 ![Thank you page](https://github.com/Val916/safeguarding/blob/main/assets/images/thankyou-readme.png)
 
 
-##### Footer/Contacts
+### Footer/Contacts
 Contact Section: Include a list of important contacts, styled with Fontawesome icons. Button link "Back to the Top of the page" added with an arrow Up - to make it easy to return to the beginning without scrolling. 
 
 ![Contacts](https://github.com/Val916/safeguarding/blob/main/assets/images/footer.png)
@@ -266,3 +266,11 @@ User Stories, most of the text content and all images were diligently created by
 
 - Add storytelling page with refugee stories.
 - Ukranian translation for downloadable information.
+
+
+
+__Thank you for reading it all through, that means a lot. We appriciate your support and kindness__ 
+
+
+
+### [Glory to Ukraine! Glory to the Heroes!](https://www.hospitallers.org.uk/)
