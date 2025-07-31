@@ -192,7 +192,7 @@ Contact Section: Include a list of important contacts, styled with Fontawesome i
 
 - **CSS** ✅ - No errors found using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-Green text approves me website, just in Ukrainian, sorry.
+Green text approves my website, just in Ukrainian, sorry.
 
 ![CSS Validation](https://github.com/Val916/safeguarding/blob/main/assets/images/css-check.png)
 
